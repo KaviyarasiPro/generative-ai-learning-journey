@@ -17,6 +17,6 @@ My goal is to strengthen my programming fundamentals and progressively build pra
 ## Projects
 
 ### Day 02 — Student Performance Analyzer
-A Python program that calculates a student's average from five subjects and determines the performance level.
+Python program to calculate student averages and evaluate performance using functions, loops, and conditions.
 **Concepts:** Functions, Lists, Loops, Conditional Statements, User Input
 ---
